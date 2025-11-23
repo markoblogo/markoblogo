@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Anton 👋
 
-<!--
-**markoblogo/markoblogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative technologist & indie maker based in Nantes.  
+I work across AI, SaaS, crypto/fintech and creative projects.
 
-Here are some ideas to get you started:
+- 🔭 Current focus:
+  - **LLMO** — AI assistant / tool for \<коротко, что это делает\>.
+  - **Crypto/Kropто** — \<одно предложение, что за проект\>.
+  - **Book on AI & creativity** — writing in public on Medium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Also:
+  - Art & illustration (postcards, visual experiments).
+  - Experiments with Notion / Obsidian / automation.
+ 
+- Tech & tools I use» (TypeScript, Next.js, Node, LLMs, etc.)
+
+- 🌐 Links:
+  - Website: [abvx.xyz](https://abvx.xyz)
+  - Medium: https://abvcreative.medium.com
+  - Behance: https://www.behance.net/ABV_Creative
+  - LinkedIn: https://linkedin.com/in/abvcreative
