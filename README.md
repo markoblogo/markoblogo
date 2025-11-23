@@ -4,8 +4,8 @@ Creative technologist & indie maker based in Nantes.
 I work across AI, SaaS, crypto/fintech and creative projects.
 
 - 🔭 Current focus:
-  - **LLMO** — AI assistant / tool for \<коротко, что это делает\>.
-  - **Crypto/Kropто** — \<одно предложение, что за проект\>.
+  - **LLMO** — LLMO Directory — Visible to AI - Analyze, optimize, and make your site visible to AI.
+  - **Crypto** — crypto pricing, hedging and trading grain.
   - **Book on AI & creativity** — writing in public on Medium.
 
 - ✨ Also:
