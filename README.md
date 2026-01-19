@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/abv-banner.jpeg" alt="ABV banner" width="1000" />
+</p>
+
 # Hi, I'm Anton 👋
 
 Creative technologist & indie maker based in Nantes.  
