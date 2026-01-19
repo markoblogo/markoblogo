@@ -10,14 +10,15 @@ I like small, shippable systems: minimal UI, clear workflows, and careful integr
 
 ### Featured projects
 
-- **YTMamp** — retro mini-player for YouTube Music on macOS (menu bar app + Chromium extension).  
+- **YTMamp** — retro mini-player for YouTube Music on macOS (menu bar app + Chromium extension).
+[![Release](https://img.shields.io/github/v/release/markoblogo/YTMamp?display_name=tag&sort=semver)](https://github.com/markoblogo/YTMamp/releases/latest)
+[![License](https://img.shields.io/github/license/markoblogo/YTMamp)](https://github.com/markoblogo/YTMamp/blob/main/LICENSE)
   Repo: https://github.com/markoblogo/YTMamp  
   Latest release: https://github.com/markoblogo/YTMamp/releases/latest
 
-[![Release](https://img.shields.io/github/v/release/markoblogo/YTMamp?display_name=tag&sort=semver)](https://github.com/markoblogo/YTMamp/releases/latest)
-[![License](https://img.shields.io/github/license/markoblogo/YTMamp)](https://github.com/markoblogo/YTMamp/blob/main/LICENSE)
-
-- **toki-pona-translator** — tools and experiments around Toki Pona translation.  
+- **toki-pona-translator** — tools and experiments around Toki Pona translation.
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/markoblogo/toki-pona-translator)](https://github.com/markoblogo/toki-pona-translator/commits/main)
   Repo: https://github.com/markoblogo/toki-pona-translator
 
 ### Current focus
