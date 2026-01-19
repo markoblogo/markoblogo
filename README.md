@@ -26,5 +26,6 @@ I like small, shippable systems: minimal UI, clear workflows, and careful integr
 ### Links
 
 - Website: https://abvx.xyz  
-- Medium: https://abvcreative.medium.com  
+- Medium: https://abvcreative.medium.com
+- Substeck: https://abvx.substack.com/  
 - LinkedIn: https://linkedin.com/in/abvcreative
