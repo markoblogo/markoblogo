@@ -1,25 +1,30 @@
 <p align="center">
-  <img src="assets/abv-banner.jpeg" alt="ABV banner" width="1000" />
+  <img src="assets/abv-banner.jpeg" alt="ABV" width="1000" />
 </p>
 
-# Hi, I'm Anton 👋
+## Anton BV
 
-Creative technologist & indie maker based in Nantes.  
-I work across AI, SaaS, crypto/fintech and creative projects.
+Creative technologist building practical AI tools and indie products. Based in Nantes.
 
-- 🔭 Current focus:
-  - **LLMO** — LLMO Directory — Visible to AI - Analyze, optimize, and make your site visible to AI.
-  - **Crypto** — crypto pricing, hedging and trading grain.
-  - **Book on AI & creativity** — writing in public on Medium.
+I like small, shippable systems: minimal UI, clear workflows, and careful integration with real user habits.
 
-- ✨ Also:
-  - Art & illustration (postcards, visual experiments).
-  - Experiments with Notion / Obsidian / automation.
- 
-- Tech & tools I use» (TypeScript, Next.js, Node, LLMs, etc.)
+### Featured projects
 
-- 🌐 Links:
-  - Website: [abvx.xyz](https://abvx.xyz)
-  - Medium: https://abvcreative.medium.com
-  - Behance: https://www.behance.net/ABV_Creative
-  - LinkedIn: https://linkedin.com/in/abvcreative
+- **YTMamp** — retro mini-player for YouTube Music on macOS (menu bar app + Chromium extension).  
+  Repo: https://github.com/markoblogo/YTMamp  
+  Latest release: https://github.com/markoblogo/YTMamp/releases/latest
+
+- **toki-pona-translator** — tools and experiments around Toki Pona translation.  
+  Repo: https://github.com/markoblogo/toki-pona-translator
+
+### Current focus
+
+- Human-facing AI utilities (small tools that reduce friction)
+- Audio/UI experiments and workflow companions
+- Writing and research on AI visibility, validation, and creative practice
+
+### Links
+
+- Website: https://abvx.xyz  
+- Medium: https://abvcreative.medium.com  
+- LinkedIn: https://linkedin.com/in/abvcreative
