@@ -2,38 +2,64 @@
   <img src="assets/abv-banner.jpeg" alt="ABV" width="1000" />
 </p>
 
-## Anton BV
+## Anton Biletskyi‑Volokh (ABV)
 
-Creative technologist building practical AI tools and indie products. Based in Nantes.
+I build **product-grade, human-facing AI tools**.
 
-I like small, shippable systems: minimal UI, clear workflows, and careful integration with real user habits.
+My work sits at the intersection of:
+- **AI visibility** (LLM-first discoverability, `llms.txt`, structured content)
+- **editorial products** (content-first landing pages and books)
+- **small, shippable systems** (minimal UI, clear workflows, solid delivery)
 
-### Featured projects
+Based in Nantes.
 
-- **YTMamp** — retro mini-player for YouTube Music on macOS (menu bar app + Chromium extension).
+---
 
-[![Release](https://img.shields.io/github/v/release/markoblogo/YTMamp?display_name=tag&sort=semver)](https://github.com/markoblogo/YTMamp/releases/latest)
-[![License](https://img.shields.io/github/license/markoblogo/YTMamp)](https://github.com/markoblogo/YTMamp/blob/main/LICENSE)
+## Live products
 
-  Repo: https://github.com/markoblogo/YTMamp  
-  Latest release: https://github.com/markoblogo/YTMamp/releases/latest
+### LLMO Directory — Be Visible to AI
+Analyze, optimize, and make your site visible to AI.
 
-- **toki-pona-translator** — tools and experiments around Toki Pona translation.
+- Live: https://llmo.abvx.xyz/ru
+- Repo: https://github.com/markoblogo/llmo-abvx
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/markoblogo/toki-pona-translator)](https://github.com/markoblogo/toki-pona-translator/commits/main)
+### Toki Pona Translator
+A minimalist translator with Latin / sitelen pona / sitelen emoji modes.
 
-  Repo: https://github.com/markoblogo/toki-pona-translator
+- Live: https://toki.abvx.xyz
+- Reader’s Kit (PDF): https://toki.abvx.xyz/kit
+- Repo: https://github.com/markoblogo/toki-pona-translator
 
-### Current focus
+---
 
-- Human-facing AI utilities (small tools that reduce friction)
-- Audio/UI experiments and workflow companions
-- Writing and research on AI visibility, validation, and creative practice
+## Editorial landings
 
-### Links
+- **Stoic Wisdom Series** (EN / toki pona)
+  - Live: https://stoic.abvx.xyz
+  - Repo: https://github.com/markoblogo/stoic-wisdom-series
 
-- Website: https://abvx.xyz  
+- **Ukrainian Modernism** (FR / UK)
+  - Live: https://ukrmodernism.abvx.xyz
+  - Repo: https://github.com/markoblogo/ukrainian-modernism
+
+---
+
+## Open-source utilities
+
+- **ABVX Shortener** — Cloudflare Worker + KV + Chrome extension
+  - Repo: https://github.com/markoblogo/-abvx-shortener
+
+- **sitelen-emoji-truth** — pinned mapping used by the translator
+  - Repo: https://github.com/markoblogo/sitelen-emoji-truth
+
+---
+
+## Writing
+
+- Website: https://abvx.xyz
 - Medium: https://abvcreative.medium.com
-- Substeck: https://abvx.substack.com/  
+- Substack: https://abvx.substack.com
+
+## Contact
+
 - LinkedIn: https://linkedin.com/in/abvcreative
