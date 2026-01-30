@@ -62,4 +62,4 @@ A minimalist translator with Latin / sitelen pona / sitelen emoji modes.
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/abvcreative
+DM on LinkedIn: https://www.linkedin.com/in/abvcreative/
