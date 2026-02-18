@@ -2,62 +2,52 @@
   <img src="assets/abv-banner.jpeg" alt="ABV" width="1000" />
 </p>
 
-## Anton Biletskyi‑Volokh (ABV)
+## Anton Biletskyi-Volokh (ABV)
 
-I build **product-grade, human-facing AI tools**.
+I build **product-grade AI tools and shippable systems** — from idea validation to implementation, docs, and GTM.
 
-My work sits at the intersection of:
-- **AI visibility** (LLM-first discoverability, `llms.txt`, structured content)
-- **editorial products** (content-first landing pages and books)
-- **small, shippable systems** (minimal UI, clear workflows, solid delivery)
-
-Based in Nantes.
+Based in Nantes (EU). I run on Paris time.
 
 ---
 
-## Live products
+## Flagship
 
-### LLMO Directory — Be Visible to AI
-Analyze, optimize, and make your site visible to AI.
+### AGENTS.md Generator (`agentsgen`)
+Safe-by-default CLI to generate and maintain `AGENTS.md` / `RUNBOOK.md` with marker-only updates + PR Guard + LLMO Pack.
 
-- Live: https://llmo.abvx.xyz/ru
-- Repo: https://github.com/markoblogo/llmo-abvx
-
-### Toki Pona Translator
-A minimalist translator with Latin / sitelen pona / sitelen emoji modes.
-
-- Live: https://toki.abvx.xyz
-- Reader’s Kit (PDF): https://toki.abvx.xyz/kit
-- Repo: https://github.com/markoblogo/toki-pona-translator
+- Landing: https://agentsmd.abvx.xyz/
+- Repo: https://github.com/markoblogo/AGENTS.md_generator
 
 ---
 
-## Editorial landings
+## Active projects (shipping / maintained)
 
-- **Stoic Wisdom Series** (EN / toki pona)
-  - Live: https://stoic.abvx.xyz
-  - Repo: https://github.com/markoblogo/stoic-wisdom-series
+- **TS** — bilingual marketing site with live FX + futures strip, interactive markets map, dark/light themes  
+  Repo: https://github.com/markoblogo/TS
 
-- **Ukrainian Modernism** (FR / UK)
-  - Live: https://ukrmodernism.abvx.xyz
-  - Repo: https://github.com/markoblogo/ukrainian-modernism
+- **Toki Pona Translator** — minimalist translator (Latin / sitelen pona / sitelen emoji)  
+  Live: https://toki.abvx.xyz  
+  Repo: https://github.com/markoblogo/toki-pona-translator
 
----
+- **ABVX Shortener** — minimal URL shortener (Cloudflare Worker + KV) + Chrome extension  
+  Repo: https://github.com/markoblogo/-abvx-shortener
 
-## Open-source utilities
-
-- **ABVX Shortener** — Cloudflare Worker + KV + Chrome extension
-  - Repo: https://github.com/markoblogo/-abvx-shortener
-
-- **sitelen-emoji-truth** — pinned mapping used by the translator
-  - Repo: https://github.com/markoblogo/sitelen-emoji-truth
+- **YTMamp** — lightweight mini-player for YouTube Music on macOS (menu bar app)  
+  Repo: https://github.com/markoblogo/YTMamp
 
 ---
 
-## Writing
+## R&D / building (changes fast)
+
+- **LLMO / visibility tooling** — experiments around LLM-first discoverability (`llms.txt`, structure, analyzers)  
+  (in progress)
+
+---
+
+## Writing & links
 
 - Website: https://abvx.xyz
-- Medium: https://abvcreative.medium.com
+- Medium: https://medium.com/@abvcreative
 - Substack: https://abvx.substack.com
 
 ## Contact
