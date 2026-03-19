@@ -72,5 +72,3 @@ Using AI tools not just for output generation, but for probing questions about r
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/abvcreative/
-
-Если хочешь, я могу ещё сделать версию совсем ближе к стилю research profile / lab page, то есть ещё суше, умнее и академичнее.
