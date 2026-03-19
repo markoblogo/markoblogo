@@ -1,55 +1,78 @@
+Конечно — вот более чистая и чуть более researcher-oriented версия, без лишнего product-ish шума и не по теме ссылок.
+
 <p align="center">
   <img src="assets/abv-banner.jpeg" alt="ABV" width="1000" />
 </p>
 
 ## Anton Biletskyi-Volokh (ABV)
 
-I build **product-grade AI tools and shippable systems** — from idea validation to implementation, docs, and GTM.
+I work at the intersection of applied AI research, language systems, and experimental software.
 
-Based in Nantes (EU). I run on Paris time.
+My main interests are:
+- how LLMs represent and manipulate structure,
+- how constrained languages and symbolic systems interact with models,
+- how to turn vibe coding into a repeatable engineering method,
+- and how to build useful systems out of tools that are still, in many cases, glorified probability engines.
 
----
-
-## Flagship
-
-### AGENTS.md Generator (`agentsgen`)
-Safe-by-default CLI to generate and maintain `AGENTS.md` / `RUNBOOK.md` with marker-only updates + PR Guard + LLMO Pack.
-
-- Landing: https://agentsmd.abvx.xyz/
-- Repo: https://github.com/markoblogo/AGENTS.md_generator
+Based in Nantes (EU). Operating on Paris time.
 
 ---
 
-## Active projects (shipping / maintained)
+## Research interests
 
-- **TS** — bilingual marketing site with live FX + futures strip, interactive markets map, dark/light themes  
-  Repo: https://github.com/markoblogo/TS
+### Language and meaning
+I am particularly interested in constructed and compressed languages as interfaces for intelligence:
+- **Toki Pona**
+- **Lojban**
+- pictographic and symbolic systems
+- low-bandwidth meaning representation for humans and models
 
-- **Toki Pona Translator** — minimalist translator (Latin / sitelen pona / sitelen emoji)  
-  Live: https://toki.abvx.xyz  
-  Repo: https://github.com/markoblogo/toki-pona-translator
+### LLM systems
+I explore:
+- prompt structure
+- memory and externalized reasoning
+- agent workflows
+- model behavior under constraints
+- LLM-first discoverability and machine-readable interfaces
+- practical limits of “understanding” in code and knowledge tasks
 
-- **ABVX Shortener** — minimal URL shortener (Cloudflare Worker + KV) + Chrome extension  
-  Repo: https://github.com/markoblogo/-abvx-shortener
-
-- **YTMamp** — lightweight mini-player for YouTube Music on macOS (menu bar app)  
-  Repo: https://github.com/markoblogo/YTMamp
+### Systematic vibe coding
+I am interested in treating vibe coding as something more serious than improvisation:
+- rapid iteration
+- scaffolding and reusable harnesses
+- memory and feedback loops
+- system design under model unreliability
+- building fast without surrendering all dignity
 
 ---
 
-## R&D / building (changes fast)
+## Current directions
 
-- **LLMO / visibility tooling** — experiments around LLM-first discoverability (`llms.txt`, structure, analyzers)  
-  (in progress)
+### AI-native language interfaces
+Exploring whether simplified or formally structured languages can serve as better control surfaces for LLMs than ordinary natural language.
+
+### LLMO / discoverability
+Experiments around machine-readable visibility:
+`llms.txt`, retrieval-facing structure, model-oriented content organization, and interface design for AI-mediated discovery.
+
+### Code understanding and architecture
+Ongoing interest in whether code agents actually form usable internal models of architecture, constraints, and dependency structure — or merely imitate competence locally.
+
+### Generative systems as research instruments
+Using AI tools not just for output generation, but for probing questions about reasoning, compression, abstraction, and system design.
 
 ---
 
-## Writing & links
+## Writing
 
 - Website: https://abvx.xyz
 - Medium: https://medium.com/@abvcreative
 - Substack: https://abvx.substack.com
 
+---
+
 ## Contact
 
-DM on LinkedIn: https://www.linkedin.com/in/abvcreative/
+- LinkedIn: https://www.linkedin.com/in/abvcreative/
+
+Если хочешь, я могу ещё сделать версию совсем ближе к стилю research profile / lab page, то есть ещё суше, умнее и академичнее.
