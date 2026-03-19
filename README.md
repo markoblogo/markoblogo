@@ -1,5 +1,3 @@
-Конечно — вот более чистая и чуть более researcher-oriented версия, без лишнего product-ish шума и не по теме ссылок.
-
 <p align="center">
   <img src="assets/abv-banner.jpeg" alt="ABV" width="1000" />
 </p>
