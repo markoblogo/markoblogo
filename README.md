@@ -103,18 +103,18 @@ Operational tooling, orchestration systems and structured AI-native workflows.
 
 |**Project**|**Description**|
 |---|---|
-|[Cropto](https://github.com/markoblogo/cropto-v0)!|Commodity trading infrastructure and tokenized market systems|
-|[MN7R](https://github.com/markoblogo/mn7r)!|Brokerage workflow workspace|
-|[UGA Index](https://github.com/markoblogo/index-uga)![Attachment.tiff](file:///Attachment.tiff)|Ukrainian agro-commodity benchmark platform|
-|[AGENTS.md Generator](https://github.com/markoblogo/AGENTS.md_generator)![Attachment.tiff](file:///Attachment.tiff)|AI-native workflow tooling|
-|[SET](https://github.com/markoblogo/SET)![Attachment.tiff](file:///Attachment.tiff)|Workflow orchestration layer|
-|[ABVX Lab](https://github.com/markoblogo/lab.abvx)![Attachment.tiff](file:///Attachment.tiff)|AI-native ecosystem front|
-|[AsciiTheme](https://github.com/markoblogo/AsciiTheme)![Attachment.tiff](file:///Attachment.tiff)|ASCII-inspired UI system|
-|[Decision Map](https://github.com/markoblogo/decision-map)![Attachment.tiff](file:///Attachment.tiff)|Strategic reasoning protocol|
-|[Pictiq](https://github.com/markoblogo/pictiq)![Attachment.tiff](file:///Attachment.tiff)|Minimal visual communication protocol|
-|[Toki Pona Translator](https://github.com/markoblogo/toki-pona-translator)![Attachment.tiff](file:///Attachment.tiff)|AI-assisted translation workflows|
-|[git-tweet](https://github.com/markoblogo/git-tweet)![Attachment.tiff](file:///Attachment.tiff)|Development communication system|
-|[YTMamp](https://github.com/markoblogo/YTMamp)![Attachment.tiff](file:///Attachment.tiff)|Winamp-style YouTube Music interface|
+|[Cropto](https://github.com/markoblogo/cropto-v0)|Commodity trading infrastructure and tokenized market systems|
+|[MN7R](https://github.com/markoblogo/mn7r)|Brokerage workflow workspace|
+|[UGA Index](https://github.com/markoblogo/index-uga)|Ukrainian agro-commodity benchmark platform|
+|[AGENTS.md Generator](https://github.com/markoblogo/AGENTS.md_generator)|AI-native workflow tooling|
+|[SET](https://github.com/markoblogo/SET)|Workflow orchestration layer|
+|[ABVX Lab](https://github.com/markoblogo/lab.abvx)|AI-native ecosystem front|
+|[AsciiTheme](https://github.com/markoblogo/AsciiTheme)|ASCII-inspired UI system|
+|[Decision Map](https://github.com/markoblogo/decision-map)|Strategic reasoning protocol|
+|[Pictiq](https://github.com/markoblogo/pictiq)|Minimal visual communication protocol|
+|[Toki Pona Translator](https://github.com/markoblogo/toki-pona-translator)|AI-assisted translation workflows|
+|[git-tweet](https://github.com/markoblogo/git-tweet)|Development communication system|
+|[YTMamp](https://github.com/markoblogo/YTMamp)|Winamp-style YouTube Music interface|
 
 ---
 
