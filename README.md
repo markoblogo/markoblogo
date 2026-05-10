@@ -1,42 +1,141 @@
-# Anton Biletskiy-Volokh (ABV)
+Anton Biletskyi-Volokh
 
-I build practical AI systems, experimental tools, and product workflows at the intersection of language, structure, and software.
+Systems, workflows, market infrastructure, publishing systems and AI-native development.
 
-My work is focused on:
-- AI-native interfaces
-- LLM systems and constrained workflows
-- code understanding and developer tooling
-- turning vague ideas into usable products quickly
+I build:
 
-## Current focus
+* agro-commodity market infrastructure;
+* AI-native operational systems;
+* publishing and language systems;
+* workflow protocols and lightweight tools.
 
-### AI-native language interfaces
-I explore how structured and semi-structured languages can serve as better control surfaces for models than ordinary natural language.
+The current ecosystem is organized around four operational layers:
 
-### LLM systems
-I work on prompting, memory, constrained generation, agent workflows, and interfaces that make model behavior more legible and usable.
+Agro Market Infrastructure
 
-### Developer tools
-I build small, practical systems for code generation, repo hygiene, scaffolding, patching, and workflow acceleration.
+Trading, brokerage and market-intelligence systems for physical agro-commodity operations.
 
-### Product prototyping
-I use AI tools not just to generate output, but to compress the path from idea to working product.
+Platforms
 
-## Current directions
-- machine-readable interfaces for reasoning and retrieval
-- experimental workflows for AI-assisted product building
-- code understanding and architecture-aware tooling
-- systems for safer, faster iterative development
+* Cropto — indexed commodity trading infrastructure and tokenized market instruments.
+* MN7R — brokerage workflow workspace for Deals, Clients and EXE.
 
-## Selected projects
-- [AGENTS.md generator](https://github.com/markoblogo/AGENTS.md_generator) — repo scaffolding and agent-facing workflow docs
-- [lab.abvx](https://github.com/markoblogo/lab-abvx) — ABV lab and small experimental surfaces
-- [ABV Creative](https://abvcreative.com/) — writing, research notes, and experiments
+Monitoring & Intelligence
 
-## Writing
-- Website: [abvx.xyz](https://abvx.xyz)
-- Medium: [medium.com/@abvcreative](https://medium.com/@abvcreative)
-- Substack: [abvx.substack.com](https://abvx.substack.com)
+* Cropto Monitor — commodity signals terminal.
+* Last30Days Cropto — market-mentions and intelligence desk.
+* UGA Index — Ukrainian agro-commodity benchmark platform.
 
-## Contact
-- LinkedIn: [linkedin.com/in/abvcreative](https://www.linkedin.com/in/abvcreative/)
+Market Fronts
+
+* Liqua — liquidity and execution layer for commodity trading.
+* Trade Solution EU — operational supply-chain and execution framework.
+* Cropto Market Risk Tools Deck — market-facing infrastructure presentation layer.
+
+⸻
+
+Publishing & Language Systems
+
+Publishing lines, translation systems and experimental language infrastructure.
+
+Publishing Lines
+
+* Modernisme Ukrainien — French translations of Ukrainian modernist literature.
+* Chinese Wisdom in toki pona — classical Chinese texts in toki pona and sitelen pona.
+* Stoic Wisdom in Toki Pona — Stoic classics in minimalist language systems.
+* Toki Pona Free Kits & Translations — free reader kits and companion materials.
+
+Language Systems
+
+* Toki Pona AI Translator — AI-assisted toki pona translation workflows.
+* Pictiq — minimal visual communication protocol.
+* sitelen-emoji-truth — emoji-based semantic compression experiments.
+
+⸻
+
+AI-native Development Systems
+
+Operational tooling, orchestration systems and structured AI-native workflows.
+
+Workflow & Orchestration
+
+* SET — orchestration layer for operational AI workflows.
+* AGENTS.md Generator — structured AI-agent workflow environment.
+
+Development Surfaces
+
+* ABVX Lab — ecosystem front for workflows, protocols and tooling.
+* AsciiTheme — ASCII-inspired UI/CSS system.
+* LLMO — AI-native visibility and discoverability platform.
+
+Protocols & Decision Systems
+
+* ID — structured identity and coordination protocol.
+* Decision Map — AI-assisted strategic decision protocol.
+* git-tweet — lightweight development communication layer.
+
+⸻
+
+Standalone Utilities & Experiments
+
+* YTMamp — Winamp-inspired YouTube Music interface.
+* ABVX Shortener — lightweight operational link-shortening system.
+
+⸻
+
+Current Themes
+
+* AI-native development
+* market infrastructure
+* commodity trading systems
+* workflow orchestration
+* operational tooling
+* structured communication
+* language systems
+* publishing infrastructure
+* translation systems
+* minimalist interfaces
+* semantic compression
+
+⸻
+
+Selected Public Projects
+
+Project	Description
+Cropto￼	Commodity trading infrastructure and tokenized market systems
+MN7R￼	Brokerage workflow workspace
+UGA Index￼	Ukrainian agro-commodity benchmark platform
+AGENTS.md Generator￼	AI-native workflow tooling
+SET￼	Workflow orchestration layer
+ABVX Lab￼	AI-native ecosystem front
+AsciiTheme￼	ASCII-inspired UI system
+Decision Map￼	Strategic reasoning protocol
+Pictiq￼	Minimal visual communication protocol
+Toki Pona Translator￼	AI-assisted translation workflows
+git-tweet￼	Development communication system
+YTMamp￼	Winamp-style YouTube Music interface
+
+⸻
+
+Ecosystem Links
+
+* Website: https://abvx.xyz/
+* Bluesky: https://bsky.app/profile/abvx.xyz
+* Medium: https://abvcreative.medium.com/
+* Substack: https://abvx.substack.com/
+* GitHub Pages / Labs: https://lab.abvx.xyz/
+
+⸻
+
+Philosophy
+
+I treat software less as isolated apps and more as operational systems:
+workflows, protocols, publishing structures, decision surfaces and infrastructure layers that help people coordinate with reality more clearly.
+
+The current direction combines:
+
+* market systems,
+* AI-native workflows,
+* publishing infrastructure,
+* constrained language systems,
+* and lightweight operational tooling.
