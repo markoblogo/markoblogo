@@ -103,8 +103,8 @@ Operational tooling, orchestration systems and structured AI-native workflows.
 
 |**Project**|**Description**|
 |---|---|
-|[Cropto](https://github.com/markoblogo/cropto-v0)![Attachment.tiff](file:///Attachment.tiff)|Commodity trading infrastructure and tokenized market systems|
-|[MN7R](https://github.com/markoblogo/mn7r)![Attachment.tiff](file:///Attachment.tiff)|Brokerage workflow workspace|
+|[Cropto](https://github.com/markoblogo/cropto-v0)!|Commodity trading infrastructure and tokenized market systems|
+|[MN7R](https://github.com/markoblogo/mn7r)!|Brokerage workflow workspace|
 |[UGA Index](https://github.com/markoblogo/index-uga)![Attachment.tiff](file:///Attachment.tiff)|Ukrainian agro-commodity benchmark platform|
 |[AGENTS.md Generator](https://github.com/markoblogo/AGENTS.md_generator)![Attachment.tiff](file:///Attachment.tiff)|AI-native workflow tooling|
 |[SET](https://github.com/markoblogo/SET)![Attachment.tiff](file:///Attachment.tiff)|Workflow orchestration layer|
